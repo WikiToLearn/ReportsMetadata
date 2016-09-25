@@ -1,8 +1,8 @@
 id : last_week
-status: published
+status: draft
 previous_report :
-start_date : 2016-09-19 00:00:00
-end_date:  2016-09-25 00:00:00
+start_date : 2015-09-01 00:00:00
+end_date:  2016-09-26 00:00:00
 git_repos :
     - WikiToLearn/WikiToLearn
     - WikiToLearn/CourseEditor
@@ -32,12 +32,13 @@ mediawiki_langs:
     - it
     - en
 
-title: Last week report
+title: Last year report
 
 message : |
-    Last week report. This is a test for report system
+    Last year report. This is a test for report system
 
 teams_log :
     graphics : Working on the skin
     texla : parsing new environments
     ocg : fixed books output
+ 
