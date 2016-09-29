@@ -8,14 +8,7 @@ git_repos :
     - WikiToLearn/CourseEditor
     - WikiToLearn/WikiToLearnSkin
     - WikiToLearn/Neverland
-    - WikiToLearn/texla
-    - WikiToLearn/texla_api
-    - WikiToLearn/EasyLink
-    - WikiToLearn/pywikibot
-    - WikiToLearn/OCG
-    - WikiToLearn/wtl-utils
-    - WikiToLearn/Reporter
-    - WikiToLearn/WikiToLearnHome
+    
 
 phab_groups :
     WikiToLearn Partecipation: [122]
