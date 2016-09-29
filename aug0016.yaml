@@ -1,8 +1,8 @@
-id : last_week
+id : 08-16
 status: published
 previous_report : last_year
-start_date : 2016-09-19 00:00:00
-end_date:  2016-09-25 00:00:00
+start_date : 2016-08-01 00:00:00
+end_date:  2016-09-01 00:00:00
 git_repos :
         - WikiToLearn/WikiToLearn
         - WikiToLearn/CourseEditor
@@ -34,10 +34,10 @@ mediawiki_langs:
     - it
     - en
 
-title: Last week report
+title: August 2016
 
 message : |
-    Last week report. This is a test for report system
+    Report of August 2016. This is a test for report system
 
 teams_log :
     graphics : Working on the skin
