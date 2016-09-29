@@ -1,6 +1,6 @@
 id : last_week
 status: published
-previous_report :
+previous_report : last_year
 start_date : 2016-09-19 00:00:00
 end_date:  2016-09-25 00:00:00
 git_repos :
