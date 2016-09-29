@@ -21,7 +21,7 @@ git_repos :
 
 phab_groups :
     WikiToLearn Participation: [122]
-    WikiToLearn 1.0: [103]
+    WikiToLearn 1_0: [103]
     WikiToLearnGeneric: [39]
     TeXLa : [114]
     Textbooks importing: [115]
