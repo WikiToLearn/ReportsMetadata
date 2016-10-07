@@ -32,6 +32,10 @@ mediawiki_langs:
     - it
     - en
 
+mediawiki_blacklist:
+    - WikiToBot
+
+
 title: Last year report
 
 message : |
@@ -41,4 +45,3 @@ teams_log :
     graphics : Working on the skin
     texla : parsing new environments
     ocg : fixed books output
- 
