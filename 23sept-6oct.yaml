@@ -46,9 +46,5 @@ message : |
     on the site: 2576 edits, for a total of 302 new pages! For this we also have to thank Tunale: CourseEditor is simply
     amazing and it provides a fantastic editing experience. Let the countdown begin, WikiToLearn 1.0 is coming!
 
-teams_log :
-    Graphics : The new skin is almost ready! Are you ready?! Beta version already available.
-    Promo : Organization of the editathon went well, let's move to the WTL birthday organization!
- 
 mediawiki_blacklist:
     - WikiToBot
