@@ -1,0 +1,46 @@
+id : 23sept-6oct
+status: draft
+previous_report :
+start_date : 2016-09-23 00:00:00
+end_date:  2016-10-06 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearnGeneric: [39]
+    TeXLa : [114]
+    Textbooks importing: [115]
+    WikiToLearn Content: [126]
+    WikiToLearn Graphics and UX: [116]
+    WikiToLearn OCG: [102]
+    WikiToLearn Bots: [113]
+
+mediawiki_langs:
+    - it
+    - en
+
+title: Last two weeks report
+
+message : |
+    Last two weeks report. This is a test for report system
+
+teams_log :
+    graphics : 
+    texla :
+    ocg : 
+ 
+mediawiki_blacklist:
+    - WikiToBot
