@@ -1,5 +1,5 @@
 id : 23sept-6oct
-status: draft
+status: published
 previous_report :
 start_date : 2016-09-23 00:00:00
 end_date:  2016-10-06 00:00:00
@@ -32,15 +32,21 @@ mediawiki_langs:
     - it
     - en
 
-title: Last two weeks report
+title: Running toward WikiToLearn 1.0
 
 message : |
-    Last two weeks report. This is a test for report system
+    Here we go with the first, hoping of a long series, of our Reports! These two weeks were amazing, because
+    we can feel that WikiToLearn 1.0 is about to be released and we are extremely excited for this! In these two
+    weeks we had the possibility to bring WikiToLearn to India. Srijan, with the help of the promo team, organized
+    the first WikiToLearn editathon and made Amrita University sign the first official Memorandum of Understanding
+    between a University and WikiToLearn. Tech team is coding more and more to provide you the 1.0 in the best possible
+    way: 217 different commits on our repos! Courses have just begun, and you can see it by the huge number of new edits
+    on the site: 2576 edits, for a total of 302 new pages! For this we also have to thank Tunale: CourseEditor is simply
+    amazing and it provides a fantastic editing experience. Let the countdown begin, WikiToLearn 1.0 is coming!
 
 teams_log :
-    graphics : 
-    texla :
-    ocg : 
+    Graphics : The new skin is almost ready! Are you ready?! Beta version already available.
+    Promo : Organization of the editathon went well, let's move to the WTL birthday organization!
  
 mediawiki_blacklist:
     - WikiToBot
