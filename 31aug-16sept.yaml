@@ -1,5 +1,5 @@
 id : 31aug-16sept
-status: draft
+status: published
 previous_report :
 start_date : 2016-08-31 00:00:00
 end_date:  2016-09-16 00:00:00
@@ -37,6 +37,17 @@ title: WikiToLearn at Akademy
 message_short: Discover how was our activity during Akademy2016, Berlin.
 
 message : |
+    During these two weeks Akademy took place in Berlin and we started working on the 1.0 release.
+    At Akademy we had the possibility to work hard from both technical and caontent sides. 63 commits on our
+    new skin repoo and 27 new commits on the course editor developement repo! Two new users (Francesca and AugustoNinni) 
+    joined us and shared their notes, being on the top three editors! Special mention goes to Valorie Zimmerman and
+    the Kubuntu team who decided to join WikiToLearn to share their documentation. WikiToLearn1.0 is now our focus, with 
+    an active on 44 total tasks on our phabricator. 
 
 mediawiki_blacklist:
     - WikiToBot
+
+teams_log :
+    Graphics : Started developing the mockup of the new skin. Collecting feedbacks for a better UX.
+    Promo : Organizing MediaWikiToLearn editathon @Amirta University, Amritapuri Campus.
+    Tech : Wroking on the full developement of course editor.

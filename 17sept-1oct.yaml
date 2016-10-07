@@ -1,6 +1,6 @@
 id : 17sept-1oct 
-status: draft
-previous_report :
+status: published
+previous_report : 31aug-16sept
 start_date : 2016-09-17 00:00:00
 end_date:  2016-10-01 00:00:00
 git_repos :
@@ -37,6 +37,16 @@ title: Let WikiToLearn 1.0 become real
 message_short: After Akademy our full focus is on the 1.0 release
 
 message : |
+    we are full focusing on the 1.0 release, as our phabricator shows. Technically we are
+    working on the new skin and on the infrastructure, as our git projects point out. Special mention
+    goes to tunale (aletundo on github) for the efforts he put on the developement of course editor,
+    which is now in production and almost bug-free! With the beginning of the new courses at University
+    V.e.padulano is producing more and more content, testing the new ux and features too: well done!
 
 mediawiki_blacklist:
     - WikiToBot
+
+teams_log :
+    Editing: Testing new ux and new features, creating new content on the italian portal.
+    Translation: Working on the guide and on the translation of pages for a better localization.
+    Tech: Beta version of the new skin released in production. Texts missing, technical work almost done.  
