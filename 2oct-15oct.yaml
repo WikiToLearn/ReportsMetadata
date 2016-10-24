@@ -32,11 +32,13 @@ mediawiki_langs:
     - it
     - en
 
-title: 
+title: Everything is getting real. WikiToLearn1.0 is almost here!
+message_short: We are almost one week to the new release and everything is taking its place!
+message : | 
+    719 new edits, most of which on the italian protal, have been done.
+    WikiToLearn 1_0 has 22 closed tasks on phabricator. 
+    We had 189 new commits, of which 78 for the Skin repo and 19 for CourseEditor repo.
 
-message_short: 
-
-message : |
 
 mediawiki_blacklist:
     - WikiToBot
