@@ -38,4 +38,3 @@ message : |
 
 mediawiki_blacklist:
     - WikiToBot
-    - Maintenance script
