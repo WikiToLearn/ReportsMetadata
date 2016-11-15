@@ -1,0 +1,41 @@
+id : 4nov-15nov
+status: draft
+previous_report : 16oct-3nov
+start_date : 2016-11-04 00:00:00
+end_date:  2016-11-15 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearnGeneric: [39]
+    TeXLa : [114]
+    Textbooks importing: [115]
+    WikiToLearn Content: [126]
+    WikiToLearn Graphics and UX: [116]
+    WikiToLearn OCG: [102]
+    WikiToLearn Bots: [113]
+
+mediawiki_langs:
+    - it
+    - en
+
+title:  WikiToLearn1.0 how you doing?
+message_short: WikiToLearn 1.0 is almost two weeks now, let's find out how it's going!
+message : | 
+
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
