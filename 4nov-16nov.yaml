@@ -1,5 +1,5 @@
 id : 4nov-15nov
-status: draft
+status: published
 previous_report : 16oct-3nov
 start_date : 2016-11-04 00:00:00
 end_date:  2016-11-15 00:00:00
@@ -35,6 +35,11 @@ mediawiki_langs:
 title:  WikiToLearn1.0 how you doing?
 message_short: WikiToLearn 1.0 is almost two weeks now, let's find out how it's going!
 message : | 
+    38 new users on our platform after the release!
+    331 new edits for a total of 87 new pages created.
+    Release and Skin repos had few commits ( a total of 7 ) indicating our efforts to succeed with the 1.0 release.
+    We also did a special interview (goo.gl/ipr5d1) to one of our core contributors (Srijan Agarwal) is now available on our blog! 
+    More statistics below...
 
 mediawiki_blacklist:
     - WikiToBot
