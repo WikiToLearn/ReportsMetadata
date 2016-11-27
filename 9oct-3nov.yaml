@@ -1,0 +1,43 @@
+id : 9oct-3nov
+status: draft
+previous_report : 2oct-15oct
+start_date : 2016-10-9 00:00:00
+end_date:  2016-11-03 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearnGeneric: [39]
+    TeXLa : [114]
+    Textbooks importing: [115]
+    WikiToLearn Content: [126]
+    WikiToLearn Graphics and UX: [116]
+    WikiToLearn OCG: [102]
+    WikiToLearn Bots: [113]
+
+mediawiki_langs:
+    - it
+    - en
+
+title:  WikiToLearn1.0 is alive!
+message_short: WikiToLearn 1.0 is now alive. Read more and discover the work that brought us to the best version of WikiToLearn you've ever experienced!
+message : | 
+    The content keeps growing: 699 new edits these two weeks!
+    Thechnical work was focused on the 1.0 release: 12 closed task on phabricator and a total of 219 commits on our git repos.
+    More statistics about these two great weeks below:  
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
