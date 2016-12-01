@@ -1,5 +1,5 @@
 id : 17nov-28nov
-status: draft
+status: published
 previous_report : 4nov-15nov
 start_date : 2016-11-17 00:00:00
 end_date:  2016-11-28 00:00:00
@@ -33,8 +33,12 @@ mediawiki_langs:
     - en
 
 title:  WikiToLearn1.0, follow through!
-message_short: Let's check the trend of the new release after about one month it's live!
+message_short: Work is going on, content is growing. Find out more in the report!
 message : | 
+    Content keeps growing with a total of 205 new edits. 8 new users registered on the platform in these two weeks!
+    Activity on phabricator has slowed down, with only 1 task for TeXLa project.
+    Last adjustments on the new release are shown by the last 5 new commits on the master and Skin repos. 
+    Promo team work goes on with the preparation of new promotional campaigns and plans for new talks. More news on our blog in a new episode of What`s going on, coming soon!
     
 mediawiki_blacklist:
     - WikiToBot
