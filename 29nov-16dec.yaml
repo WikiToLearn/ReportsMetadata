@@ -1,5 +1,5 @@
 id : 29nov-16dec
-status: draft
+status: published
 previous_report : 17nov-28nov
 start_date : 2016-11-29 00:00:00
 end_date:  2016-12-16 00:00:00
@@ -35,7 +35,10 @@ mediawiki_langs:
 title: WikiToLearn, Christmas is coming!
 message_short: Let's find out our statistics in these two weeks before Christmas!
 message : | 
-    
+    21 New users joined our platform and we had a total of 386 new edits.
+    Phabricator indicates continuous work on WikiToLearn1.0 with 2 resolved tasks.
+    27 new commits in these two weeks to fix the new skin and to improve TeXLa!
+    Read more to find out new statistics and stay tuned for a new episode of ``Wiki, What`s going on?`` coming soon.
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
