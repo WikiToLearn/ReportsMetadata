@@ -35,7 +35,11 @@ mediawiki_langs:
 title: Happy New Year, WikiToLearn!
 message_short: Last two weeks of 2016, read the report and find out how we closed this year!
 message : | 
-
+        9 new users joined WikiToLearn in the last two weeks of the 2016.
+        We had a quite relaxed period, also due to holidays: only 2 new tasks on phabricator and a total of 11 new commits on our repos.
+        TeXLa was improved to better reproduce the output of the conversion in case of an error.
+        Infrastructure was up-to-dated and a new version was released. Back from holidays we have great plans for this 2017. First of all, the incoming 
+        WikiToLearn IndiaConf! Stay tuned for more news!
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
