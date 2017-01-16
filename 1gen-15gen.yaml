@@ -1,0 +1,42 @@
+id : 1gen-15gen
+status: draft
+previous_report : 17dec-31dec
+start_date : 2017-01-01 00:00:00
+end_date:  2016-01-15 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearn WebUI: [210]
+    WikiToLearn Junion Jobs: [150]
+    WikiToLearn Infrastructure: [211]
+    WikiToLearn Content: [126]
+    Offline Content Generator: [102]
+    TeXLa : [212]
+    Course Editor: [151]
+    Akhet: [121]
+
+mediawiki_langs:
+    - it
+    - en
+
+title: Draft
+message_short: message
+message : | 
+        News
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
