@@ -2,7 +2,7 @@ id : 1gen-15gen
 status: draft
 previous_report : 17dec-31dec
 start_date : 2017-01-01 00:00:00
-end_date:  2016-01-15 00:00:00
+end_date:  2017-01-15 00:00:00
 git_repos :
     - WikiToLearn/WikiToLearn
     - WikiToLearn/CourseEditor
