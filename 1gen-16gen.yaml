@@ -20,13 +20,14 @@ git_repos :
 phab_groups :
     WikiToLearn Partecipation: [122]
     WikiToLeanrn 1_0: [103]
-    WikiToLearnGeneric: [39]
-    TeXLa : [114]
-    Textbooks importing: [115]
+    WikiToLearn WebUI: [210]
+    WikiToLearn Junion Jobs: [150]
+    WikiToLearn Infrastructure: [211]
     WikiToLearn Content: [126]
-    WikiToLearn Graphics and UX: [116]
-    WikiToLearn OCG: [102]
-    WikiToLearn Bots: [113]
+    Offline Content Generator: [102]
+    TeXLa : [212]
+    Course Editor: [151]
+    Akhet: [121]
 
 mediawiki_langs:
     - it
