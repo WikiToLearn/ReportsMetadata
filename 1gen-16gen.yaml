@@ -1,5 +1,5 @@
 id : 1gen-16gen
-status: draft
+status: published
 previous_report : 17dec-31dec
 start_date : 2017-01-01 00:00:00
 end_date:  2017-01-16 00:00:00
@@ -36,7 +36,10 @@ mediawiki_langs:
 title: WTLConfIndia, loading...
 message_short: Let's see how we started this new year, waiting for the first WTL conference!
 message : | 
-
+    21 new users on the platform, to start in the best way the new year!
+    The platform is going well with 555 new edits in these two weeks. 
+    Phabricator was re-organized after a community meeting, more stats below.
+    Special mentions go for the WikiToLearn India Conference (18-19 january) and meeting with WikiMedia CH for action plans on schools. More info soon on the blog!0
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
