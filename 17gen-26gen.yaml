@@ -1,5 +1,5 @@
-id : 17gen-26gen
-status: draft
+id : WTLConfIndia
+status: published
 previous_report : 1gen-16gen
 start_date : 2017-01-17 00:00:00
 end_date:  2017-01-26 00:00:00
@@ -36,7 +36,11 @@ mediawiki_langs:
 title: WTLConfIndia stats are here!
 message_short: Extra report, shorter than the usual period of two weeks. Discover numbers during the week of WTLConfIndia!
 message : | 
-
+    Great 10-days with important activities on the community building, content and developement sides.
+    18 and 19 January: WTLConfIndia. It was amazing! Photos, reports and blog posts coming soon. Let's focus on numbers now.
+    81 new users on the platform during this 10-days period! 
+    Work is going on with 88 new pages created, 2 new tasks on phabricator and 2 new commits on our repos.
+    Offline we are focusing our attention on ideas for WTL2. Stay tuned for more news and content, keep reading for more statistics.
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
