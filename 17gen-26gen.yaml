@@ -1,0 +1,42 @@
+id : 17gen-26gen
+status: draft
+previous_report : 1gen-16gen
+start_date : 2017-01-17 00:00:00
+end_date:  2017-01-26 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearn WebUI: [210]
+    WikiToLearn Junion Jobs: [150]
+    WikiToLearn Infrastructure: [211]
+    WikiToLearn Content: [126]
+    Offline Content Generator: [102]
+    TeXLa : [212]
+    Course Editor: [151]
+    Akhet: [121]
+
+mediawiki_langs:
+    - it
+    - en
+
+title: WTLConfIndia stats are here!
+message_short: Extra report, shorter than the usual period of two weeks. Discover numbers during the week of WTLConfIndia!
+message : | 
+
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
