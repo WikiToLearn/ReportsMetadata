@@ -1,5 +1,5 @@
 id : 26gen-10feb
-status: draft
+status: published
 previous_report : WTLConfIndia
 start_date : 2017-01-26 00:00:00
 end_date:  2017-02-10 00:00:00
@@ -36,7 +36,8 @@ mediawiki_langs:
 title: Exams period, study with WikiToLearn!
 message_short: February is exams month, let's see how users study on WikiToLearn!
 message : | 
-   
+   The community is growing: 23 new users joined the platform. Students are using WikiToLearn to prepare their exams! 252 new edits have been made in this period. 2+ brand new (complete) books have been published on the italian portal!
+   Technical work is going on with minor bugs fixing and constant updates to give you the best experience on the site: 32 new commits were pushed on our repos. As usual, keep reading for more stats...
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
