@@ -24,8 +24,7 @@ mediawiki_langs:
 
 title: WikiToLearn contributors 2017
 message_short: Summary of the contributions in 2017. 
-message : | 
-   This report showes the activity of the WikiToLearn community during 2017 in terms of content contributions and software ones. 
+message : This report showes the activity of the WikiToLearn community during 2017 in terms of content contributions and software ones. 
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
