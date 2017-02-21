@@ -1,4 +1,4 @@
-id : 1gen-21feb
+id : 2017-summary
 status: draft
 previous_report : WTLConfIndia
 start_date : 2017-01-01 00:00:00
@@ -18,6 +18,9 @@ git_repos :
     - WikiToLearn/WikiToLearnHome
 
 phab_groups :
+    TeXLa : [212]
+    WikiToLearn Junion Jobs: [150]
+    WikiToLearn Partecipation: [122]
 
 mediawiki_langs:
     - it
