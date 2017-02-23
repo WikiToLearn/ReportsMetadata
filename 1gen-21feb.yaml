@@ -1,0 +1,33 @@
+id : 2017-summary
+status: draft
+previous_report : WTLConfIndia
+start_date : 2017-01-01 00:00:00
+end_date:  2017-02-21 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    TeXLa : [212]
+    WikiToLearn Junion Jobs: [150]
+    WikiToLearn Partecipation: [122]
+
+mediawiki_langs:
+    - it
+
+title: WikiToLearn contributors 2017
+message_short: Summary of the contributions in 2017. 
+message : This report showes the activity of the WikiToLearn community during 2017 in terms of content contributions and software ones. 
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
