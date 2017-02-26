@@ -35,7 +35,7 @@ mediawiki_langs:
 
 title: February report, part II
 message_short: Curious about our numbers during the second two weeks of February? Keep reading...
-message : | 
+message : | WikiToLearn, your doing great! 251 new edits in these two weeks with 72 new pages. 12 tasks have been closed on out phabricator, during recent updates and day-by-day work! 46 new commits by our tech team: for further details keep reading...
 
 mediawiki_blacklist:
     - WikiToBot
