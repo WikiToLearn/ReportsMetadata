@@ -16,6 +16,10 @@ git_repos :
     - WikiToLearn/wtl-utils
     - WikiToLearn/Reporter
     - WikiToLearn/WikiToLearnHome
+    
+phab_groups :
+    TeXLa : [212]
+    WikiToLearn Partecipation: [122]
 
 
 mediawiki_langs:
