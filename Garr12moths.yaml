@@ -17,17 +17,6 @@ git_repos :
     - WikiToLearn/Reporter
     - WikiToLearn/WikiToLearnHome
 
-phab_groups :
-    WikiToLearn Partecipation: [122]
-    WikiToLeanrn 1_0: [103]
-    WikiToLearn WebUI: [210]
-    WikiToLearn Junior Jobs: [150]
-    WikiToLearn Infrastructure: [211]
-    WikiToLearn Content: [126]
-    Offline Content Generator: [102]
-    TeXLa : [212]
-    Course Editor: [151]
-    Akhet: [121]
 
 mediawiki_langs:
     - it
