@@ -26,8 +26,8 @@ mediawiki_langs:
     - it
     - en
 
-title: Report for GARR: last 12 months.
-message_short: Report for GARR: last 12 months.
+title: "Report for GARR: last 12 months."
+message_short: "Report for GARR: last 12 months."
 message : | 
         Last 12 months activity for WikiToLearn.
         
