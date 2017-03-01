@@ -1,8 +1,8 @@
 id : test 
 status: draft
-previous_report : 26gen-10feb
-start_date : 2017-02-11 00:00:00
-end_date:  2017-02-28 00:00:00
+previous_report : 1gen-1mar
+start_date : 2017-01-01 00:00:00
+end_date:  2017-03-01 00:00:00
 git_repos :
     - WikiToLearn/WikiToLearn
     - WikiToLearn/CourseEditor
