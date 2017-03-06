@@ -1,5 +1,5 @@
 id : 21feb17-6mar17
-status: draft
+status: published
 previous_report : 11feb-20feb
 start_date : 2017-02-21 00:00:00
 end_date:  2017-03-06 00:00:00
@@ -36,7 +36,7 @@ mediawiki_langs:
 title: March report, spring is coming...
 message_short: February is over, WikiToLearn-ers are working. Statistics are here!
 message : | 
-
+        In these weeks we had 499 edits by 22 different users. WikiToLearn-ers are more and more, with 36 new users in this period! Our developers are coding day after day and got a total of 39 new commits. Keep reading and discover our top 3 contributors and more Statistics...
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
