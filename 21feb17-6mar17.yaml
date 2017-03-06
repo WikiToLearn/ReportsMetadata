@@ -1,0 +1,42 @@
+id : 21feb17-6mar17
+status: draft
+previous_report : 11feb-20feb
+start_date : 2017-02-21 00:00:00
+end_date:  2017-03-06 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearn WebUI: [210]
+    WikiToLearn Junior Jobs: [150]
+    WikiToLearn Infrastructure: [211]
+    WikiToLearn Content: [126]
+    Offline Content Generator: [102]
+    TeXLa : [212]
+    Course Editor: [151]
+    Akhet: [121]
+
+mediawiki_langs:
+    - it
+    - en
+
+title: March report, spring is coming...
+message_short: February is over, WikiToLearn-ers are working: statistics are here!
+message : | 
+
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
