@@ -36,6 +36,7 @@ mediawiki_langs:
 title: Spring is here, new report too...
 message_short: We were silent but we've been working, read statistics now!
 message : | 
+        We have been silent in these two weeks, why? We have been working and studying, as our numbers confirm. 322 New edits by 14 different users, new books out soon! 46 new commits for our tech team, keep reading for more details. What about the community? Still growing, 21 new users registered in these two weeks...
 
 mediawiki_blacklist:
     - WikiToBot
