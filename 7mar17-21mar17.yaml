@@ -1,0 +1,42 @@
+id : 7mar17-21mar17
+status: draft
+previous_report : 7mar-21mar
+start_date : 2017-03-07 00:00:00
+end_date:  2017-03-21 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearn WebUI: [210]
+    WikiToLearn Junior Jobs: [150]
+    WikiToLearn Infrastructure: [211]
+    WikiToLearn Content: [126]
+    Offline Content Generator: [102]
+    TeXLa : [212]
+    Course Editor: [151]
+    Akhet: [121]
+
+mediawiki_langs:
+    - it
+    - en
+
+title: Spring is here, new report too...
+message_short: We were silent but we've been working, read statistics now!
+message : | 
+
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
