@@ -1,5 +1,5 @@
 id : 22mar17-05apr17
-status: draft
+status: published
 previous_report : 7mar17-21mar17
 start_date : 2017-03-22 00:00:00
 end_date:  2017-04-05 00:00:00
@@ -35,9 +35,12 @@ mediawiki_langs:
     - en
 
 title: March closing, April opening
-message_short: Spring has offically begun but exams never end. Study with WikiToLearn! 
+message_short: Spring has offically begun but exams never end. Study with WikiToLearn!
 message : |
-
+      More and more people talk about WikiToLearn, with 34 new users in these two weeks.
+      Dan is back as top editor of this period and our editors had 202 edits and 34 new pages.
+      It's almost GSoC time, first proposals are arriving. 4 tasks closed on phabricator, 2 for the developement of TeXLa and 2 for our Junior Jobs.
+      56 new commits from our tech team, with several updates at the skin, at CourseEditor and at the Infrastructure. Keep reading for more numers...
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
