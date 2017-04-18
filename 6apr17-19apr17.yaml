@@ -25,6 +25,7 @@ phab_groups :
     WikiToLearn Junior Jobs: [150]
     WikiToLearn Infrastructure: [211]
     WikiToLearn Content: [126]
+    WikiRating: [229]
     Offline Content Generator: [102]
     TeXLa : [212]
     Course Editor: [151]
@@ -33,6 +34,9 @@ phab_groups :
 mediawiki_langs:
     - it
     - en
+    - de 
+    - es
+    - ca
 
 title: In the middle of april, in the middle of spring!
 message_short: Our easter holidays with WikiToLearn
