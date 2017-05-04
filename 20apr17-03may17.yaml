@@ -1,5 +1,5 @@
 id : 20apr17-03may17
-status: draft
+status: published
 previous_report : 06apr17-19apr17
 start_date : 2017-04-20 00:00:00
 end_date:  2017-05-03 00:00:00
@@ -41,6 +41,12 @@ mediawiki_langs:
 title: Time goes by, May is here!
 message_short:  Time flies, discover how we closed April...
 message : |
+    Again, 20 new users on all the platform! In these two weeks we populated the
+    platform with 132 new edits and 60 new pages. The tech team had 25 commits,
+    kudos aletundo for being the first commiter!
+    In one week you can find members of our community at OpenSource Conference
+    Albania (OSCAL) 2017, stay tuned!
+
 
 mediawiki_blacklist:
     - WikiToBot
