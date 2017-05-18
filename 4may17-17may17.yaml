@@ -1,7 +1,7 @@
 id : 4may17-17may17
 status: published
 previous_report : 20apr17-03may17
-start_date : 2017-05-05 00:00:00
+start_date : 2017-05-04 00:00:00
 end_date:  2017-05-17 00:00:00
 git_repos :
     - WikiToLearn/WikiToLearn
