@@ -1,5 +1,5 @@
 id : 4may17-17may17
-status: draft
+status: published
 previous_report : 20apr17-03may17
 start_date : 2017-05-05 00:00:00
 end_date:  2017-05-17 00:00:00
@@ -41,8 +41,11 @@ mediawiki_langs:
 title: May first half report
 message_short:  Back from OSCAL, new activities and more...
 message : |
-
-
+  59 New pages have been created in this period by 15 different users, with a
+  total of 319 new edits. A good number of new users register every
+  two weeks on the platform, in these two weeks we had a total of 13 users.
+  Tech work is going on actively, as we registered 15 commits. For more details
+  and stats keep reading...
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
