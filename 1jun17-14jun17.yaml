@@ -1,5 +1,5 @@
 id : 1jun17-14jun17
-status: draft
+status: published
 previous_report : 18may17-31may17
 start_date : 2017-06-01 00:00:00
 end_date:  2017-06-14 00:00:00
@@ -41,7 +41,11 @@ mediawiki_langs:
 title: June, exams and WikiToLearn
 message_short:  June, when lessons are over and you have to study for exams. WikiToLearn is here for you!
 message : |
-
+        We got 14 new users during these two weeks. Content keeps growing with
+        21 new pages and 85 total edits on the platform. Infrastructure and tech developement
+        had some troubles we could solve very quickly, continuing providing you the best experience
+        on WikiToLearn. Hive Network, GSoC projects and WikiToLearn future are the main tasks for our community
+        in this period. Help us at join.wikitolearn.org!
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
