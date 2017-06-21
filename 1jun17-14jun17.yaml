@@ -2,7 +2,7 @@ id : 1jun17-14jun17
 status: draft
 previous_report : 18may17-31may17
 start_date : 2017-06-01 00:00:00
-end_date:  2017-01-14 00:00:00
+end_date:  2017-06-14 00:00:00
 git_repos :
     - WikiToLearn/WikiToLearn
     - WikiToLearn/CourseEditor
