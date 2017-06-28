@@ -1,5 +1,5 @@
 id : 15jun17-28jun17
-status: draft
+status: published
 previous_report : 1jun17-14jun17
 start_date : 2017-06-15 00:00:00
 end_date:  2017-06-28 00:00:00
@@ -41,6 +41,11 @@ mediawiki_langs:
 title: Don't waste your knowledge, share it!
 message_short:  June is almost over but sharing knowledge never goes on holiday
 message : |
+        Our community created 29 new pages in these two weeks, for a total of 113 edits.
+        The platform registered 19 new users and we look forward to see their contribution!
+        Tech team is working on future improvements for WikiToLearn. Promo team is working
+        on communication and outreach. Cool stuff is coming, stay tuned (and read below for more
+        stats!)
 
 mediawiki_blacklist:
     - WikiToBot
