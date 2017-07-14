@@ -39,8 +39,12 @@ mediawiki_langs:
     - ca
 
 title: July first half report
-message_short: 
+message_short:
 message : |
+      Let's give a warm welcome to the 20 new users registered on the platform in these two weeks!
+      28 new pages were created, for a total of 51 edits. A complete book (Electromagnetism in Italian by Dan) has been
+      published. Tech team worked hard to provide a new cool feature, badges! Now imported and reviewed books
+      can be labelled with suitable tags. Curious about all these news? Stay tuned, a new "Wiki, what's going on?" episode is coming!
 
 mediawiki_blacklist:
     - WikiToBot
