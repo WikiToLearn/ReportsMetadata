@@ -1,5 +1,5 @@
 id : 13jul17-26jul17
-status: draft
+status: published
 previous_report : 29jun17-12jul17
 start_date : 2017-07-13 00:00:00
 end_date:  2017-07-26 00:00:00
@@ -41,6 +41,13 @@ mediawiki_langs:
 title: July second half report
 message_short: You didn't miss our latest news, did you?
 message : |
+      Content grows! 88 edits and 7 new pages on the portal in these two weeks.
+      A warm welcome to the 18 new users registered, the WikiToLearn community
+      was waiting for you all! Code had important progesses in this period. In addition
+      to the planning of WikiToLearn2 our tech team worked hard to insert a long-time
+      requested feature, badges! Now you can add a tag associated to imported/reviewed books.
+      The latest "What's going on?" episode is out, don't miss it to be always up to date with the most
+      recent news from our community. Read more and discover all our stats!
 
 mediawiki_blacklist:
     - WikiToBot
