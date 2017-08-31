@@ -1,5 +1,5 @@
 id : 1aug17-31aug17
-status: draft
+status: published
 previous_report : 13jul17-26jul17
 start_date : 2017-08-01 00:00:00
 end_date:  2017-08-31 00:00:00
@@ -41,7 +41,11 @@ mediawiki_langs:
 title: Back from holidays, new academic year incoming!
 message_short: What did the community produce during these summer holidays?
 message : |
-      
+      Holidays have been productive for the WikiToLearn community. 414 edits and 111 new pages
+      have been created by 21 users. The platform registerd 38 new users, which is great!
+      Tech team never stops working and produced 10 commits in this last period. Keep reading
+      for more numbers and...welcome back on board!
+
 mediawiki_blacklist:
     - WikiToBot
     - Maintenance script
