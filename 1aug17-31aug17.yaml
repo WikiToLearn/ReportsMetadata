@@ -1,0 +1,47 @@
+id : 1aug17-31aug17
+status: draft
+previous_report : 13jul17-26jul17
+start_date : 2017-08-01 00:00:00
+end_date:  2017-08-31 00:00:00
+git_repos :
+    - WikiToLearn/WikiToLearn
+    - WikiToLearn/CourseEditor
+    - WikiToLearn/WikiToLearnSkin
+    - WikiToLearn/Neverland
+    - WikiToLearn/texla
+    - WikiToLearn/texla_api
+    - WikiToLearn/EasyLink
+    - WikiToLearn/pywikibot
+    - WikiToLearn/OCG
+    - WikiToLearn/wtl-utils
+    - WikiToLearn/Reporter
+    - WikiToLearn/WikiToLearnHome
+    - WikiToLearn/WikiRating
+
+phab_groups :
+    WikiToLearn Partecipation: [122]
+    WikiToLeanrn 1_0: [103]
+    WikiToLearn WebUI: [210]
+    WikiToLearn Junior Jobs: [150]
+    WikiToLearn Infrastructure: [211]
+    WikiToLearn Content: [126]
+    WikiRating: [229]
+    Offline Content Generator: [102]
+    TeXLa : [212]
+    Course Editor: [151]
+    Akhet: [121]
+
+mediawiki_langs:
+    - it
+    - en
+    - de
+    - es
+    - ca
+
+title: Back from holidays, new academic year incoming!
+message_short: What did the community produce during these summer holidays?
+message : |
+      
+mediawiki_blacklist:
+    - WikiToBot
+    - Maintenance script
