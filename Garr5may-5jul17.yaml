@@ -38,8 +38,8 @@ mediawiki_langs:
     - es
     - ca
 
-title: "Report for GARR: last 6 months."
-message_short: "Report for GARR: last 6 months."
+title: "Report for GARR: last 3 months."
+message_short: "Report for GARR: last 3 months."
 message : |
         Last 6 months activity for WikiToLearn.
 
